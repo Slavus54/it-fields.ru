@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Главная",
+        "access_value": 0,
+        "url": "/"
+    },
+    {
+        "title": "Учетная запись",
+        "access_value": -1,
+        "url": "/login"
+    },
+    {
+        "title": "Лекции",
+        "access_value": 1,
+        "url": "/lectures"
+    },
+    {
+        "title": "Практики",
+        "access_value": 1,
+        "url": "/practices"
+    },
+    {
+        "title": "Вакансии",
+        "access_value": 1,
+        "url": "/vacancies"
+    },
+    {
+        "title": "Наставники",
+        "access_value": 1,
+        "url": "/tutors"
+    },
+    {
+        "title": "Пользователи",
+        "access_value": 1,
+        "url": "/profiles"
+    }
+]

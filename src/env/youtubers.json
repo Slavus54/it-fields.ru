@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Senior Software Vlogger",
+        "category": "Менеджмент, инженерия",
+        "url": "https://www.youtube.com/@SeniorSoftwareVlogger"
+    },
+    {
+        "title": "Egor Malkevich",
+        "category": "NodeJS разработка",
+        "url": "https://www.youtube.com/@ubogew"
+    },
+    {
+        "title": "Сергей Немчинский",
+        "category": "Обучение, новости",
+        "url": "https://www.youtube.com/@SergeyNemchinskiy"
+    },
+    {
+        "title": "АйТиБорода",
+        "category": "Интервью, разработка и образование",
+        "url": "https://www.youtube.com/itbeard"
+    },
+    {
+        "title": "Тимур Шемсединов",
+        "category": "NodeJS разработка",
+        "url": "https://www.youtube.com/@TimurShemsedinov"
+    },
+    {
+        "title": "JavaScript.Ninja",
+        "category": "Vue и GitLab разработка, образование",
+        "url": "youtube.com/@JavaScriptNinja"
+    },
+    {
+        "title": "Миша Ларченко",
+        "category": "Новости, образование",
+        "url": "https://www.youtube.com/@larchanka"
+    },
+    {
+        "title": "Влад Тен",
+        "category": "Образование",
+        "url": "https://www.youtube.com/@vladnineplusone"
+    },
+    {
+        "title": "Winderton",
+        "category": "Образование, интервью",
+        "url": "https://www.youtube.com/@wndtn"
+    },
+    {
+        "title": "S0ER",
+        "category": "Инженерия, архитектура",
+        "url": "https://www.youtube.com/@S0ERDEVS"
+    }
+]

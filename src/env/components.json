@@ -1,0 +1,19 @@
+[
+    
+    {
+        "title": "Лекция",
+        "path": "lecture"
+    },
+    {
+        "title": "Практика",
+        "path": "practice"
+    },
+    {
+        "title": "Вакансия",
+        "path": "vacancy"
+    },
+    {
+        "title": "Наставник",
+        "path": "tutor"
+    }
+]
